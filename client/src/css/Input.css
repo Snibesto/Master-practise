@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'NotoSerif';
+    src: url(../assets/fonts/NotoSerif.ttf);
+}
+
+body {
+    font-family: 'NotoSerif', sans-serif;
+}
