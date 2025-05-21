@@ -5,6 +5,16 @@
     src: url(../assets/fonts/NotoSerif.ttf);
 }
 
+@font-face {
+    font-family: 'AlbertSans';
+    src: url(../assets/fonts/AlbertSans.ttf);
+}
+
+
 body {
     font-family: 'NotoSerif', sans-serif;
+}
+
+#dashboard {
+    font-family: 'AlbertSans';
 }
